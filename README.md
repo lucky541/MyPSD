@@ -1,5 +1,6 @@
 # MyPSD
 - Collection of my photoshop document.
+- Tools: Photoshop, Bootsrap, Jquery.
 - Team: Lucky Barkane
 - Created in 2016
 - Screenshots
